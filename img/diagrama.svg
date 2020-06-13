@@ -1,0 +1,364 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="831" height="420.837" viewBox="0 0 831 420.837">
+  <defs>
+    <style>
+      .cls-1, .cls-14, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        font-size: 30px;
+      }
+
+      .cls-10, .cls-11, .cls-3, .cls-6, .cls-7, .cls-8, .cls-9 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        opacity: 0.8;
+      }
+
+      .cls-6 {
+        font-size: 15px;
+      }
+
+      .cls-7 {
+        font-size: 20px;
+      }
+
+      .cls-8 {
+        font-size: 18px;
+      }
+
+      .cls-9 {
+        font-size: 17px;
+      }
+
+      .cls-10 {
+        font-size: 16px;
+      }
+
+      .cls-11 {
+        font-size: 14px;
+      }
+
+      .cls-12, .cls-13 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="diagrama" transform="translate(-545 -136.613)">
+    <g id="Grupo_4" data-name="Grupo 4" transform="translate(14)">
+      <g id="Grupo_1" data-name="Grupo 1" transform="translate(449 -6)">
+        <g id="a" transform="matrix(0.809, 0.588, -0.588, 0.809, 226.16, -49.677)">
+          <path id="Trazado_3" data-name="Trazado 3" class="cls-1" d="M1.041,469.864c-.46,2.767-10.989,10.387-17.633,11.46l-.043.012c-4.147.642-10.581-.824-14.935-2.546h0a39.237,39.237,0,0,1-11.214-7.221l-1.984-1.941c-1.2-1.462-1.713-2.012-2.775-3.437l-2.119-3.234-1.413-2.687-1.825-4.591a42.908,42.908,0,0,1-1.116-4.228l-.617-4.526-.146-1.934.146-2.116a40.109,40.109,0,0,0,.219-5.766c.165-1.675.038-1.237.213-2.362.764-5.258.456-5.17,1.2-8.558a20.783,20.783,0,0,1,2.831-6.126c5.105-6.533,17.2-3.338,17.2-3.338" transform="translate(183 -106)"/>
+          <g id="Polígono_1" data-name="Polígono 1" transform="matrix(-0.07, 0.998, -0.998, -0.07, 152.703, 306.682)">
+            <path class="cls-12" d="M 6.276822566986084 6 L 1.723176956176758 6 L 3.999999761581421 2.015559911727905 L 6.276822566986084 6 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 4.031137466430664 L 3.446363925933838 5 L 4.553635597229004 5 L 3.999999761581421 4.031137466430664 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="uno">
+          <g id="uno-2" data-name="uno" class="cls-2" transform="translate(149 289)">
+            <circle class="cls-12" cx="37.5" cy="37.5" r="37.5"/>
+            <circle class="cls-14" cx="37.5" cy="37.5" r="37"/>
+          </g>
+          <text id="_1" data-name="1" class="cls-3" transform="translate(178 339)"><tspan x="0" y="0">1</tspan></text>
+        </g>
+        <g id="unodos">
+          <g id="unodos-2" data-name="unodos" class="cls-2" transform="translate(307 214)">
+            <circle class="cls-12" cx="37.5" cy="37.5" r="37.5"/>
+            <circle class="cls-14" cx="37.5" cy="37.5" r="37"/>
+          </g>
+          <text id="_12" data-name="12" class="cls-3" transform="translate(327 264)"><tspan x="0" y="0">12</tspan></text>
+        </g>
+        <g id="unocinco">
+          <g id="unocinco-2" data-name="unocinco" class="cls-2" transform="translate(307 373)">
+            <circle class="cls-12" cx="37.5" cy="37.5" r="37.5"/>
+            <circle class="cls-14" cx="37.5" cy="37.5" r="37"/>
+          </g>
+          <text id="_15" data-name="15" class="cls-3" transform="translate(327 423)"><tspan x="0" y="0">15</tspan></text>
+        </g>
+        <g id="unotrescinco">
+          <g id="utc" class="cls-2" transform="translate(481 214)">
+            <circle class="cls-12" cx="37.5" cy="37.5" r="37.5"/>
+            <circle class="cls-14" cx="37.5" cy="37.5" r="37"/>
+          </g>
+          <text id="_135" data-name="135" class="cls-3" transform="translate(493 264)"><tspan x="0" y="0">135</tspan></text>
+        </g>
+        <g id="unoseis">
+          <g id="unoseis-2" data-name="unoseis" class="cls-2" transform="translate(481 373)">
+            <circle class="cls-12" cx="37.5" cy="37.5" r="37.5"/>
+            <circle class="cls-14" cx="37.5" cy="37.5" r="37"/>
+          </g>
+          <text id="_16" data-name="16" class="cls-3" transform="translate(501 423)"><tspan x="0" y="0">16</tspan></text>
+        </g>
+        <g id="terminal1">
+          <g id="Elipse_8" data-name="Elipse 8" class="cls-2" transform="translate(655 214)">
+            <circle class="cls-12" cx="37.5" cy="37.5" r="37.5"/>
+            <circle class="cls-14" cx="37.5" cy="37.5" r="37"/>
+          </g>
+          <g id="Elipse_14" data-name="Elipse 14" class="cls-4" transform="translate(647 206)">
+            <circle class="cls-12" cx="46" cy="46" r="46"/>
+            <circle class="cls-14" cx="46" cy="46" r="45.5"/>
+          </g>
+          <text id="_146" data-name="146" class="cls-3" transform="translate(667 264)"><tspan x="0" y="0">146</tspan></text>
+        </g>
+        <g id="unosiete">
+          <g id="Elipse_5" data-name="Elipse 5" class="cls-2" transform="translate(655 373)">
+            <circle class="cls-12" cx="37.5" cy="37.5" r="37.5"/>
+            <circle class="cls-14" cx="37.5" cy="37.5" r="37"/>
+          </g>
+          <text id="_17" data-name="17" class="cls-3" transform="translate(675 423)"><tspan x="0" y="0">17</tspan></text>
+        </g>
+        <g id="terminal2">
+          <g id="Elipse_6" data-name="Elipse 6" class="cls-2" transform="translate(829 373)">
+            <circle class="cls-12" cx="37.5" cy="37.5" r="37.5"/>
+            <circle class="cls-14" cx="37.5" cy="37.5" r="37"/>
+          </g>
+          <text id="_18" data-name="18" class="cls-3" transform="translate(849 423)"><tspan x="0" y="0">18</tspan></text>
+          <g id="Elipse_15" data-name="Elipse 15" class="cls-4" transform="translate(821 365)">
+            <circle class="cls-12" cx="46" cy="46" r="46"/>
+            <circle class="cls-14" cx="46" cy="46" r="45.5"/>
+          </g>
+        </g>
+        <g id="i" transform="translate(0 5.089)">
+          <line id="Línea_1" data-name="Línea 1" class="cls-1" y1="63.911" x2="81.099" transform="translate(223.5 256.5)"/>
+          <g id="Polígono_2" data-name="Polígono 2" transform="translate(304.116 251.185) rotate(49)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="j" transform="matrix(0.087, 0.996, -0.996, 0.087, 539.195, 73.445)">
+          <line id="Línea_1-2" data-name="Línea 1" class="cls-1" y1="79.279" x2="71.31" transform="translate(223.5 256.5)"/>
+          <g id="Polígono_2-2" data-name="Polígono 2" transform="matrix(0.819, 0.574, -0.574, 0.819, 293.041, 251.339)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="h" class="cls-5" transform="matrix(-1, -0.017, 0.017, -1, 525.761, 569.37)">
+          <line id="Línea_1-3" data-name="Línea 1" class="cls-1" y1="65.088" x2="82.688" transform="translate(223.5 256.5)"/>
+          <g id="Polígono_2-3" data-name="Polígono 2" transform="translate(305.705 251.185) rotate(49)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="g" transform="matrix(-0.087, -0.996, 0.996, -0.087, -4.337, 656.221)">
+          <line id="Línea_1-4" data-name="Línea 1" class="cls-1" y1="76.405" x2="66.827" transform="translate(223.5 256.5)"/>
+          <g id="Polígono_2-4" data-name="Polígono 2" transform="matrix(0.719, 0.695, -0.695, 0.719, 291.547, 249.386)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="k" transform="matrix(1, -0.017, 0.017, 1, 148.923, 99.712)">
+          <path id="Trazado_3-2" data-name="Trazado 3" class="cls-1" d="M-.2,456.641c-.448,2.088-10.919,7.823-17.389,8.633l-.042.009c-4.039.484-10.305-.621-14.546-1.921h0A40.756,40.756,0,0,1-43.1,457.914l-1.933-1.464c-1.169-1.1-1.668-1.518-2.7-2.594l-2.063-2.44-1.376-2.028-1.777-3.464a26.718,26.718,0,0,1-1.087-3.19l-.6-3.415-.142-1.459.142-1.6a23.484,23.484,0,0,0,.213-4.351c.16-1.264.037-.933.208-1.782.744-3.968.444-3.9,1.167-6.457a14.264,14.264,0,0,1,2.757-4.622c4.972-4.93,16.748-2.518,16.748-2.518" transform="translate(183 -106)"/>
+          <g id="Polígono_1-2" data-name="Polígono 1" transform="matrix(-0.07, 0.998, -0.998, -0.07, 152.192, 306.682)">
+            <path class="cls-12" d="M 6.276822566986084 6 L 1.723176956176758 6 L 3.999999761581421 2.015559911727905 L 6.276822566986084 6 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 4.031137466430664 L 3.446363925933838 5 L 4.553635597229004 5 L 3.999999761581421 4.031137466430664 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="v" transform="translate(468.454 -132.012) rotate(47)">
+          <line id="Línea_1-5" data-name="Línea 1" class="cls-1" y1="69.547" x2="62.16" transform="translate(223.5 256.065)"/>
+          <g id="Polígono_2-5" data-name="Polígono 2" transform="translate(284.538 251.234) rotate(41)">
+            <path class="cls-12" d="M 6.477893352508545 5.922044277191162 L 0.8615912795066833 5.922044277191162 L 3.669742345809937 1.007783651351929 L 6.477893352508545 5.922044277191162 Z"/>
+            <path class="cls-13" d="M 3.669742345809937 2.015563011169434 L 1.723180294036865 5.422044277191162 L 5.616304397583008 5.422044277191162 L 3.669742345809937 2.015563011169434 M 3.669742345809937 4.291534423828125e-06 L 7.339482307434082 6.422044277191162 L 2.384185791015625e-06 6.422044277191162 L 3.669742345809937 4.291534423828125e-06 Z"/>
+          </g>
+        </g>
+        <g id="c" transform="translate(0.618)">
+          <path id="Trazado_5" data-name="Trazado 5" class="cls-1" d="M307.965-113.835c201.4-265.2,484.875-73.044,484.875-73.044" transform="translate(-121.465 397.804)"/>
+          <g id="Polígono_4" data-name="Polígono 4" transform="translate(188.714 289) rotate(-150)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="e" transform="translate(18.692 38.654)">
+          <path id="Trazado_5-2" data-name="Trazado 5" class="cls-1" d="M307.965-151.226C425.5-345.762,590.93-204.806,590.93-204.806" transform="translate(-121.465 397.804)"/>
+          <g id="Polígono_4-2" data-name="Polígono 4" transform="translate(188.714 251.609) rotate(-150)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="f" transform="matrix(-0.891, -0.454, 0.454, -0.891, 541.851, 753.693)">
+          <path id="Trazado_5-3" data-name="Trazado 5" class="cls-1" d="M307.965-137.606c119.737-220.278,288.265-60.67,288.265-60.67" transform="translate(-121.465 397.804)"/>
+          <g id="Polígono_4-3" data-name="Polígono 4" transform="translate(480.614 198.837) rotate(128)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="l" transform="matrix(-0.087, 0.996, -0.996, -0.087, 689.264, 96.656)">
+          <path id="Trazado_3-3" data-name="Trazado 3" class="cls-1" d="M-2.18,472.439c-.432,2.9-10.523,10.86-16.758,11.984l-.04.013c-3.892.672-9.931-.863-14.018-2.667h0a36.677,36.677,0,0,1-10.525-7.563l-1.862-2.033c-1.126-1.532-1.607-2.108-2.6-3.6l-1.989-3.388L-51.3,462.37l-1.713-4.808c-.375-1.152-.942-3.813-1.047-4.428l-.579-4.741-.137-2.025.137-2.216a46.856,46.856,0,0,0,.206-6.04c.155-1.755.036-1.3.2-2.474.717-5.508.428-5.415,1.125-8.964a23.077,23.077,0,0,1,2.657-6.417c4.792-6.843,16.141-3.5,16.141-3.5" transform="translate(183 -106)"/>
+          <g id="Polígono_1-3" data-name="Polígono 1" transform="matrix(-0.07, 0.998, -0.998, -0.07, 151.501, 306.682)">
+            <path class="cls-12" d="M 6.276822566986084 6 L 1.723176956176758 6 L 3.999999761581421 2.015559911727905 L 6.276822566986084 6 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 4.031137466430664 L 3.446363925933838 5 L 4.553635597229004 5 L 3.999999761581421 4.031137466430664 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="v-2" data-name="v" transform="translate(468.055 5.339) rotate(47)">
+          <line id="Línea_1-6" data-name="Línea 1" class="cls-1" y1="74.599" x2="69.66" transform="translate(223.5 256.5)"/>
+          <g id="Polígono_2-6" data-name="Polígono 2" transform="translate(291.937 251.234) rotate(41)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="u" transform="translate(483.012 417.534) rotate(131)">
+          <line id="Línea_1-7" data-name="Línea 1" class="cls-1" x2="63.641" y2="72.04" transform="translate(0 0)"/>
+          <g id="Polígono_2-7" data-name="Polígono 2" transform="translate(68.456 72.057) rotate(139)">
+            <path class="cls-12" d="M 7.138410091400146 6.500000953674316 L 0.8615871667861938 6.500000953674316 L 3.999998569488525 1.007780909538269 L 7.138410091400146 6.500000953674316 Z"/>
+            <path class="cls-13" d="M 3.999998569488525 2.015561103820801 L 1.723175525665283 6.000000953674316 L 6.276821136474609 6.000000953674316 L 3.999998569488525 2.015561103820801 M 3.999998569488525 9.5367431640625e-07 L 7.999998569488525 7.000000953674316 L -1.430511474609375e-06 7.000000953674316 L 3.999998569488525 9.5367431640625e-07 Z"/>
+          </g>
+        </g>
+        <g id="z" transform="matrix(0.695, 0.719, -0.719, 0.695, 634.252, 25.058)">
+          <line id="Línea_1-8" data-name="Línea 1" class="cls-1" y1="68.426" x2="64.899" transform="translate(223.5 256.5)"/>
+          <g id="Polígono_2-8" data-name="Polígono 2" transform="translate(287.176 251.234) rotate(41)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="ab" transform="matrix(0.695, 0.719, -0.719, 0.695, 804.252, 28.92)">
+          <line id="Línea_1-9" data-name="Línea 1" class="cls-1" y1="62.866" x2="60.224" transform="translate(223.5 256.5)"/>
+          <g id="Polígono_2-9" data-name="Polígono 2" transform="translate(282.502 251.234) rotate(41)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="b" transform="translate(160.629 360.072) rotate(-1)">
+          <path id="Trazado_5-4" data-name="Trazado 5" class="cls-1" d="M.784.014C.954,4.429.763,1.8.963,11.417c-.253,4.344.5,8.484,3.51,17.74C9.894,42.828,16.217,60.169,36.63,93.647c136.255,225.394,664.138,9.067,664.138,9.067" transform="translate(4.704 6.221)"/>
+          <g id="Polígono_4-4" data-name="Polígono 4" transform="translate(1.249 -0.469)">
+            <path class="cls-12" d="M 7.138411045074463 6.500000476837158 L 0.8615883588790894 6.500000476837158 L 3.999999761581421 1.007780432701111 L 7.138411045074463 6.500000476837158 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560626983643 L 1.723176956176758 6.000000476837158 L 6.276822566986084 6.000000476837158 L 3.999999761581421 2.015560626983643 M 3.999999761581421 4.76837158203125e-07 L 8 7.000000476837158 L -4.76837158203125e-07 7.000000476837158 L 3.999999761581421 4.76837158203125e-07 Z"/>
+          </g>
+        </g>
+        <g id="d" transform="translate(185.629 367.072) rotate(-1)">
+          <path id="Trazado_5-5" data-name="Trazado 5" class="cls-1" d="M.784.014C.9,3.142.77,1.279.906,8.092.733,11.17,1.244,14.1,3.3,20.661c3.693,9.686,8,21.972,21.909,45.691,92.831,159.688,452.48,6.424,452.48,6.424" transform="translate(4.704 6.221)"/>
+          <g id="Polígono_4-5" data-name="Polígono 4" transform="translate(1.249 -0.469)">
+            <path class="cls-12" d="M 7.138411045074463 6.500000476837158 L 0.8615883588790894 6.500000476837158 L 3.999999761581421 1.007780432701111 L 7.138411045074463 6.500000476837158 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560626983643 L 1.723176956176758 6.000000476837158 L 6.276822566986084 6.000000476837158 L 3.999999761581421 2.015560626983643 M 3.999999761581421 4.76837158203125e-07 L 8 7.000000476837158 L -4.76837158203125e-07 7.000000476837158 L 3.999999761581421 4.76837158203125e-07 Z"/>
+          </g>
+        </g>
+        <g id="m" transform="translate(-33.318 294.969) rotate(-43)">
+          <line id="Línea_1-10" data-name="Línea 1" class="cls-1" y1="58.465" x2="54.006" transform="translate(223.5 256.5)"/>
+          <g id="Polígono_2-10" data-name="Polígono 2" transform="translate(276.284 251.234) rotate(41)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="o" transform="translate(108.402 596.441) rotate(-90)">
+          <line id="Línea_1-11" data-name="Línea 1" class="cls-1" y1="150.685" x2="85.162" transform="translate(223.5 256.5)"/>
+          <g id="Polígono_2-11" data-name="Polígono 2" transform="translate(307.536 250.44) rotate(31)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="s" transform="matrix(-0.017, -1, 1, -0.017, 128.727, 622.442)">
+          <line id="Línea_1-12" data-name="Línea 1" class="cls-1" y1="282.232" x2="118.47" transform="translate(223.5 256.5)"/>
+          <g id="Polígono_2-12" data-name="Polígono 2" transform="translate(340.844 250.44) rotate(31)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="x" transform="matrix(-0.017, -1, 1, -0.017, 137.827, 617.464)">
+          <line id="Línea_1-13" data-name="Línea 1" class="cls-1" y1="440.792" x2="127.642" transform="translate(223.5 256.5)"/>
+          <g id="Polígono_2-13" data-name="Polígono 2" transform="translate(349.162 250.799) rotate(21)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="aa" transform="translate(693 298.445) rotate(43)">
+          <line id="Línea_1-14" data-name="Línea 1" class="cls-1" x2="47.639" y2="51.717" transform="translate(0 0)"/>
+          <g id="Polígono_2-14" data-name="Polígono 2" transform="translate(52.454 51.735) rotate(139)">
+            <path class="cls-12" d="M 7.138412475585938 6.500000476837158 L 0.8615895509719849 6.500000476837158 L 4.000000953674316 1.007780432701111 L 7.138412475585938 6.500000476837158 Z"/>
+            <path class="cls-13" d="M 4.000000953674316 2.015560626983643 L 1.723177909851074 6.000000476837158 L 6.276823997497559 6.000000476837158 L 4.000000953674316 2.015560626983643 M 4.000000953674316 4.76837158203125e-07 L 8.000000953674316 7.000000476837158 L 9.5367431640625e-07 7.000000476837158 L 4.000000953674316 4.76837158203125e-07 Z"/>
+          </g>
+        </g>
+        <g id="q" transform="translate(215.236 3.4) rotate(8)">
+          <path id="Trazado_5-6" data-name="Trazado 5" class="cls-1" d="M307.965-204.18C423.122-298.633,585.2-230.194,585.2-230.194" transform="translate(-121.465 397.804)"/>
+          <g id="Polígono_4-6" data-name="Polígono 4" transform="translate(188.714 198.656) rotate(-150)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="y" transform="matrix(0.695, 0.719, -0.719, 0.695, 630.123, -131.955)">
+          <line id="Línea_1-15" data-name="Línea 1" class="cls-1" y1="62.686" x2="59.603" transform="translate(223.5 256.5)"/>
+          <g id="Polígono_2-15" data-name="Polígono 2" transform="translate(281.88 251.234) rotate(41)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="t" transform="translate(647 263.372) rotate(100)">
+          <line id="Línea_1-16" data-name="Línea 1" class="cls-1" x2="166.698" y2="240.667" transform="translate(0 0)"/>
+          <g id="Polígono_2-16" data-name="Polígono 2" transform="translate(171.513 240.684) rotate(139)">
+            <path class="cls-12" d="M 7.138412475585938 6.500000476837158 L 0.8615895509719849 6.500000476837158 L 4.000000953674316 1.007780432701111 L 7.138412475585938 6.500000476837158 Z"/>
+            <path class="cls-13" d="M 4.000000953674316 2.015560626983643 L 1.723177909851074 6.000000476837158 L 6.276823997497559 6.000000476837158 L 4.000000953674316 2.015560626983643 M 4.000000953674316 4.76837158203125e-07 L 8.000000953674316 7.000000476837158 L 9.5367431640625e-07 7.000000476837158 L 4.000000953674316 4.76837158203125e-07 Z"/>
+          </g>
+        </g>
+        <g id="n" transform="translate(518.5 289) rotate(100)">
+          <line id="Línea_1-17" data-name="Línea 1" class="cls-1" x2="111.148" y2="142.319" transform="translate(0 0)"/>
+          <g id="Polígono_2-17" data-name="Polígono 2" transform="translate(115.963 142.336) rotate(139)">
+            <path class="cls-12" d="M 7.138412475585938 6.500000476837158 L 0.8615895509719849 6.500000476837158 L 4.000000953674316 1.007780432701111 L 7.138412475585938 6.500000476837158 Z"/>
+            <path class="cls-13" d="M 4.000000953674316 2.015560626983643 L 1.723177909851074 6.000000476837158 L 6.276823997497559 6.000000476837158 L 4.000000953674316 2.015560626983643 M 4.000000953674316 4.76837158203125e-07 L 8.000000953674316 7.000000476837158 L 9.5367431640625e-07 7.000000476837158 L 4.000000953674316 4.76837158203125e-07 Z"/>
+          </g>
+        </g>
+        <g id="r" transform="translate(843.592 604.533) rotate(-179)">
+          <path id="Trazado_5-7" data-name="Trazado 5" class="cls-1" d="M307.965-225.1c117.779-54.914,283.552-15.125,283.552-15.125" transform="translate(-121.465 397.804)"/>
+          <g id="Polígono_5" data-name="Polígono 5" transform="translate(465.364 153.26)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="p" transform="translate(1017.902 628.955) rotate(-178)">
+          <path id="Trazado_5-8" data-name="Trazado 5" class="cls-1" d="M307.965-225.1c196.016-54.914,471.905-15.125,471.905-15.125" transform="translate(-121.465 397.804)"/>
+          <g id="Polígono_5-2" data-name="Polígono 5" transform="translate(653.717 153.26)">
+            <path class="cls-12" d="M 7.138411045074463 6.5 L 0.8615883588790894 6.5 L 3.999999761581421 1.007779955863953 L 7.138411045074463 6.5 Z"/>
+            <path class="cls-13" d="M 3.999999761581421 2.015560150146484 L 1.723176956176758 6 L 6.276822566986084 6 L 3.999999761581421 2.015560150146484 M 3.999999761581421 0 L 8 7 L -4.76837158203125e-07 7 L 3.999999761581421 0 Z"/>
+          </g>
+        </g>
+        <g id="w" transform="translate(479.53 240.899) rotate(130)">
+          <line id="Línea_1-18" data-name="Línea 1" class="cls-1" x2="62.16" y2="69.547" transform="translate(0 0)"/>
+          <g id="Polígono_2-18" data-name="Polígono 2" transform="translate(66.577 69.563) rotate(139)">
+            <path class="cls-12" d="M 6.477893829345703 5.92204475402832 L 0.8615915179252625 5.92204475402832 L 3.669742584228516 1.007784128189087 L 6.477893829345703 5.92204475402832 Z"/>
+            <path class="cls-13" d="M 3.669742584228516 2.015563488006592 L 1.723180294036865 5.42204475402832 L 5.616304874420166 5.42204475402832 L 3.669742584228516 2.015563488006592 M 3.669742584228516 4.76837158203125e-06 L 7.33948278427124 6.42204475402832 L 2.384185791015625e-06 6.42204475402832 L 3.669742584228516 4.76837158203125e-06 Z"/>
+          </g>
+        </g>
+      </g>
+      <text id="Σ-e-w" class="cls-6" transform="translate(674 268)"><tspan x="0" y="0">Σ-e-w</tspan></text>
+      <text id="Σ-e-w-2" data-name="Σ-e-w" class="cls-7" transform="translate(531 277)"><tspan x="0" y="0">Σ-e-w</tspan></text>
+      <text id="Σ-e-w-3" data-name="Σ-e-w" class="cls-7" transform="translate(875 541)"><tspan x="0" y="0">Σ-e-w</tspan></text>
+      <text id="Σ-e-w-y" class="cls-8" transform="translate(960 502)"><tspan x="0" y="0">Σ-e-w-y</tspan></text>
+      <text id="Σ-a-e-w" class="cls-7" transform="translate(1048 160)"><tspan x="0" y="0">Σ-a-e-w</tspan></text>
+      <text id="Σ-b-e-w" class="cls-9" transform="translate(809 170)"><tspan x="0" y="0">Σ-b-e-w</tspan></text>
+      <text id="Σ-a-e-w-2" data-name="Σ-a-e-w" class="cls-10" transform="translate(804 495)"><tspan x="0" y="0">Σ-a-e-w</tspan></text>
+      <text id="Σ-b-e-w-2" data-name="Σ-b-e-w" class="cls-11" transform="translate(680 390)"><tspan x="0" y="0">Σ-b-e-w</tspan></text>
+    </g>
+    <text id="e-2" data-name="e" class="cls-8" transform="translate(729 345)"><tspan x="0" y="0">e</tspan></text>
+    <text id="e-3" data-name="e" class="cls-8" transform="translate(760 429)"><tspan x="0" y="0">e</tspan></text>
+    <text id="e-4" data-name="e" class="cls-8" transform="translate(1114 482)"><tspan x="0" y="0">e</tspan></text>
+    <text id="e-5" data-name="e" class="cls-8" transform="translate(1042 436)"><tspan x="0" y="0">e</tspan></text>
+    <text id="e-6" data-name="e" class="cls-8" transform="translate(882 258)"><tspan x="0" y="0">e</tspan></text>
+    <text id="w-2" data-name="w" class="cls-8" transform="translate(729 300)"><tspan x="0" y="0">w</tspan></text>
+    <text id="b-2" data-name="b" class="cls-8" transform="translate(1042 262)"><tspan x="0" y="0">b</tspan></text>
+    <text id="w-3" data-name="w" class="cls-8" transform="translate(880 230)"><tspan x="0" y="0">w</tspan></text>
+    <text id="w-4" data-name="w" class="cls-8" transform="translate(784 206)"><tspan x="0" y="0">w</tspan></text>
+    <text id="w-5" data-name="w" class="cls-8" transform="translate(1097 312)"><tspan x="0" y="0">w</tspan></text>
+    <text id="y-2" data-name="y" class="cls-8" transform="translate(1229 423)"><tspan x="0" y="0">y</tspan></text>
+    <text id="e-7" data-name="e" class="cls-8" transform="translate(890 426)"><tspan x="0" y="0">e</tspan></text>
+    <text id="b-3" data-name="b" class="cls-8" transform="translate(892 381)"><tspan x="0" y="0">b</tspan></text>
+    <text id="w-6" data-name="w" class="cls-8" transform="translate(964 178)"><tspan x="0" y="0">w</tspan></text>
+    <text id="a-2" data-name="a" class="cls-8" transform="translate(1057 399)"><tspan x="0" y="0">a</tspan></text>
+    <text id="a-3" data-name="a" class="cls-8" transform="translate(1158 312)"><tspan x="0" y="0">a</tspan></text>
+    <text id="w-7" data-name="w" class="cls-8" transform="translate(1028 342)"><tspan x="0" y="0">w</tspan></text>
+    <text id="e-8" data-name="e" class="cls-8" transform="translate(960 354)"><tspan x="0" y="0">e</tspan></text>
+    <text id="e-9" data-name="e" class="cls-8" transform="translate(847 343)"><tspan x="0" y="0">e</tspan></text>
+    <text id="w-8" data-name="w" class="cls-8" transform="translate(791 336)"><tspan x="0" y="0">w</tspan></text>
+  </g>
+</svg>

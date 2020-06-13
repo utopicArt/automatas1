@@ -1,0 +1,40 @@
+path{
+    stroke:#fff;
+    fill:#000;
+    stroke-dasharray:1800;
+    opacity: 10;
+    animation: animate 4s cubic-bezier(0,.23,1,.1);
+}
+@keyframes animate{
+    0%{
+        opacity: 0;
+        fill:none;
+        stroke-dashoffset:1800;
+    }
+    30%{
+        opacity: 10;
+        fill:none;
+        stroke-dashoffset:1800;
+    }
+    90%{
+        fill:rgba(255,255,255,0);
+    }
+    100%{
+        opacity: 10;
+        fill:rgba(255,255,255,1);
+        stroke-dashoffset:0;
+    }
+}
+
+#add:hover svg circle{
+    cursor: pointer;
+    fill:#43B05C!important;
+    stroke-width:2;
+}
+#add:hover svg{
+    transition: 0.7s all;
+    transform: rotate(180deg);
+}
+svg line{
+    stroke:#FFFFFF;
+}
