@@ -111,6 +111,9 @@ header span{
     font-weight:600;
     color: #20A2DD;
 }
+svg g#a .cls-1{
+    stroke: firebrick;
+}
 
 @media(max-width:1030px){
     svg.svg-inject.replaced-svg{
