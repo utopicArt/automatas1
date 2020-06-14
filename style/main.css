@@ -93,7 +93,7 @@ header span{
 .word{
     height: 73%;
     overflow: auto;
-    font-size: 1.3vw;
+    font-size: 2.5vh;
     text-align: justify;
     transition: .5s all;
 }
