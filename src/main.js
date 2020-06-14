@@ -26,7 +26,7 @@ $(document).ready(function(){
                 palabra += word;
                 contadorDosPalabras++;
             }
-        },10*cnt);
+        },70*cnt);
     }
     
     $.get("./src/EjemploWebEbayCETI.txt", function(archivo) {
@@ -36,34 +36,25 @@ $(document).ready(function(){
         } 
     });
     
-    
-    //$(".word-web .word").append("Web,");
-    //$(".word-web .counter span").text(encontradas);
-    //console.log(cn+".- Se encontró Web!");
-    
     var cn = 1;
     var webEncontradas = 0;
     var webayEncontradas=0;
     var ebayEncontradas=0;
-    var completa;
     function checkWeb(caracter){
         caracter = caracter.toLocaleLowerCase();
-        console.log(cn+".- "+caracter);
         for(var i=0;i<caracter.length;i++){
             cn = i+1;
             if(caracter.substring(i,i+1)=='w'){
                 if(caracter.substring(i+1,i+2)=='e'){
                     if(caracter.substring(i+2,i+3)=='b'){
                         webEncontradas++;
-                        $(".word-web .word").append(webEncontradas+".- "+caracter+"\n\n");
+                        $(".word-web .word ol").append("<li>"+caracter+"</li>");
                         $(".word-web .counter span").text(webEncontradas);
-                        console.log(cn+".- Se encontró Web!");
                         if(caracter.substring(i+3,i+4)=='a'){
                             if(caracter.substring(i+4,i+5)=='y'){
                                 webayEncontradas++;
-                                $(".word-webay .word").append(webayEncontradas+".- "+caracter+"\n\n");
+                                $(".word-webay .word ol").append("<li>"+caracter+"</li>");
                                 $(".word-webay .counter span").text(webayEncontradas);
-                                console.log(cn+".- Se encontró Webay!");
                             }
                         }                      
                     }
@@ -73,9 +64,8 @@ $(document).ready(function(){
                    if(caracter.substring(i+2,i+3)=='a'){
                        if(caracter.substring(i+3,i+4)=='y'){
                             ebayEncontradas++;
-                            $(".word-ebay .word").append(ebayEncontradas+".- "+caracter+"\n\n");
-                            $(".word-ebay .counter span").text(ebayEncontradas);
-                            console.log(cn+".- Se encontró Webay!");                           
+                            $(".word-ebay .word ol").append("<li>"+caracter+"</li>");
+                            $(".word-ebay .counter span").text(ebayEncontradas);                          
                        }
                    } 
                 }

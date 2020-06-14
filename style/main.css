@@ -7,8 +7,8 @@
     src:url("font/Roboto-Bold.ttf");
 }
 @font-face{
-    font-family:regular;
-    src:url("font/Roboto-Regular.ttf");
+    font-family:negrita;
+    src:url("font/Roboto-Black.ttf");
 }
 body{
     width: 100%;
@@ -95,9 +95,16 @@ header span{
     overflow: auto;
     font-size: 1.3vw;
     text-align: justify;
+    transition: .5s all;
+}
+.word li{
+    font-family: negrita;
+    color:#20DD78;
 }
 .word-container .word{
-    height:89.8%;
+    height:87.8%;
+    padding-left: 1%;
+    padding-right: 1%;
 }
 .counter{
     height: 16%;
@@ -114,6 +121,9 @@ header span{
     transform: translate(-50%,-50%); 
     font-weight:600;
     color: #20A2DD;
+}
+li{
+    list-style: decimal;
 }
 svg g#a .cls-1{
     stroke: firebrick;
