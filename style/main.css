@@ -64,7 +64,6 @@ header span{
     float: left;
     border-left: 1px solid #000;
     overflow: auto;
-    word-break: break-all;
 }
 .word-ebay{
     width: 20%;
@@ -74,14 +73,12 @@ header span{
     border-width: 0 1px 0 1px;
     border-color: #000000;
     overflow: auto;
-    word-break: break-all;
 }
 .word-webay{
     width: 19%;
     height: 100%;
     float: left;
     overflow: auto;
-    word-break: break-all;
 }
 .automata #header{
     height: 10%;
@@ -90,7 +87,8 @@ header span{
 .word{
     height: 73%;
     overflow: auto;
-    font-size: 0.9em;
+    font-size: 1.3vw;
+    text-align: justify;
 }
 .word-container .word{
     height:89.8%;
