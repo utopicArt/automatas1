@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    let cnt = 0;
+    let cnt = 1;
     
     var wordChar;
     var contadorDosPalabras=0;
@@ -19,7 +19,7 @@ $(document).ready(function(){
         setTimeout(function(){
             $(".word-container .word").append(word);
             //$("svg g#"+arrowID[cnt]+" .cls-1").css('stroke','6DC009');
-            if(word==' '||word==undefined||word=='\n'){
+            if(word==' '||word=='\n'){
                 checkWeb(palabra);
                 contadorDosPalabras = 0;
             }else{
