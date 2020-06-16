@@ -29,11 +29,24 @@ $(document).ready(function(){
         },70*cnt);
     }
     
-    $.get("./src/EjemploWebEbayCETI.txt", function(archivo) {
-        for(wordChar of archivo){
-            readWordChar(wordChar, cnt);
-            cnt++;
-        } 
+    $.get("./src/test.txt", function(archivo) {
+        if(confirm("¿Desea agregar su propio archivo de texto?")){
+            alert("Diríjase a la parte inferior de la página y presione el botón\npara seleccionar su archivo.");
+            $("#file").change(function(e){
+                var url = URL.createObjectURL(e.target.files[0]); 
+                $.get(url, function(file){
+                    for(wordChar of file){
+                        readWordChar(wordChar, cnt);
+                        cnt++;
+                    } 
+                });
+            });
+        }else{        
+            for(wordChar of archivo){
+                readWordChar(wordChar, cnt);
+                cnt++;
+            }
+        }
     });
     
     var cn = 1;

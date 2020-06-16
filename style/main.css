@@ -125,9 +125,6 @@ header span{
 li{
     list-style: decimal;
 }
-svg g#a .cls-1{
-    stroke: firebrick;
-}
 
 @media(max-width:1030px){
     svg.svg-inject.replaced-svg{
