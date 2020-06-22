@@ -1,2 +1,5 @@
-# automatas1
-Pagina web de proyecto 1 de autómatas
+# Proyecto 1 de teoría de autómatas
+
+Equipo:
+* César Arturo Álvarez Estrada
+* Adrian Marín Alcalá
