@@ -8,17 +8,11 @@ $(document).ready(function(){
     var palabraTemp = "";
     var inLocatedFlag=false;
     
-    var arrowID = [
-        "a","b","c","d","e","f","g",
-        "h","i","j","k","l","m","n",
-        "o","p","q","r","s","t","u",
-        "v","v-2","w","x","y","z","aa","ab",
-    ];
     var finPalabra=false;
+    
     function readWordChar(word, cnt){
         setTimeout(function(){
             $(".word-container .word").append(word);
-            //$("svg g#"+arrowID[cnt]+" .cls-1").css('stroke','6DC009');
             if(word==' '||word=='\n'){
                 checkWeb(palabra);
                 contadorDosPalabras = 0;
