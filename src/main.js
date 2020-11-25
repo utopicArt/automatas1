@@ -76,12 +76,18 @@ $(document).ready(function(){
             if(caracter.substring(i,i+1)=='w'){
                 if(caracter.substring(i+1,i+2)=='e'){
                     if(caracter.substring(i+2,i+3)=='b'){
+                        
+                        //Se encontró la palabra web
                         webEncontradas++;
+                        
                         $(".word-web .word ol").append("<li>"+caracter+"</li>");
                         $(".word-web .counter span").text(webEncontradas);
                         if(caracter.substring(i+3,i+4)=='a'){
                             if(caracter.substring(i+4,i+5)=='y'){
+                                
+                                //Se encontró la palabra webay
                                 webayEncontradas++;
+                                
                                 $(".word-webay .word ol").append("<li>"+caracter+"</li>");
                                 $(".word-webay .counter span").text(webayEncontradas);
                             }
@@ -92,7 +98,10 @@ $(document).ready(function(){
                 if(caracter.substring(i+1,i+2)=='b'){
                    if(caracter.substring(i+2,i+3)=='a'){
                        if(caracter.substring(i+3,i+4)=='y'){
+                           
+                           //Se encontró la palabra ebay
                             ebayEncontradas++;
+                           
                             $(".word-ebay .word ol").append("<li>"+caracter+"</li>");
                             $(".word-ebay .counter span").text(ebayEncontradas);                          
                        }
